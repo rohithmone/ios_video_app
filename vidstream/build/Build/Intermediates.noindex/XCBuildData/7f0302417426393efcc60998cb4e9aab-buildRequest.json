@@ -1,0 +1,71 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "51a4c4079a7979b4f2d516cbbc40510b138da03398777c0abca194cdddfa26a8"
+    }
+  ],
+  "containerPath" : "/Users/monerohith/Documents/RemoteControl/ios_video_app/vidstream/vidstream.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/monerohith/Documents/RemoteControl/ios_video_app/vidstream/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/monerohith/Documents/RemoteControl/ios_video_app/vidstream/build/Build/Products",
+      "derivedDataPath" : "/Users/monerohith/Documents/RemoteControl/ios_video_app/vidstream/build",
+      "indexDataStoreFolderPath" : "/Users/monerohith/Documents/RemoteControl/ios_video_app/vidstream/build/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/monerohith/Documents/RemoteControl/ios_video_app/vidstream/build/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/monerohith/Documents/RemoteControl/ios_video_app/vidstream/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "139",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "test",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
