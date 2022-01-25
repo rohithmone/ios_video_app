@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+vidstream_ext in vidstream, no dependencies
+vidstream in vidstream, depends on:
+vidstream_ext in vidstream (explicit)
